@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning B.tech artificial intelligence data science
 - 💞️ I’m looking to collaborate on full stack development projects
-- 📫 How to reach me (https://www.linkedin.com/in/sunil-s-40548826b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv6KkvuqvQDKJtmLMkPNSUw%3D%3D)[Linkedin]
+- 📫 How to reach me [https://www.linkedin.com/in/sunil-s-40548826b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv6KkvuqvQDKJtmLMkPNSUw%3D%3D](Linkedin)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: dark mode to avoid bugs
 
