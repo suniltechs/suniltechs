@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sunil S
+- 👋 Hi, I’m Sunil Sowrirajan
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning B.tech artificial intelligence data science
 - 💞️ I’m looking to collaborate on full stack development projects
