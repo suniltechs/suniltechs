@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunil Sowrirajan
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning B.tech artificial intelligence data science
+- 🌱 I’m currently persuing degree in B.tech artificial intelligence data science
 - 💞️ I’m looking to collaborate on full stack development projects
 - 📫 How to reach me <a href="https://www.linkedin.com/in/sunil-s-40548826b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv6KkvuqvQDKJtmLMkPNSUw%3D%3D">Linkedin</a>
 - 😄 Pronouns: He/Him
