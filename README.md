@@ -1,19 +1,78 @@
-# 💫 About Me:
+# 👋 Hi, I'm Sunil Sowrirajan
 
-- 👋 Hi, I’m Sunil Sowrirajan
-- 👀 I’m interested in full stack development
-- 🌱 I’m a recent graduate in B.tech artificial intelligence data science
-- 💞️ I’m looking to collaborate on full stack development projects
-- 📫 How to reach me <a href="https://www.linkedin.com/in/sunil-s-40548826b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv6KkvuqvQDKJtmLMkPNSUw%3D%3D">Linkedin</a>
-- 😄 Pronouns: He/Him
-- ⚡Fun fact: I use dark mode to keep bugs🐞 in the dark too 😅
-  
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suniltechs&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=suniltechs&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suniltechs&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### Full Stack Developer | React.js | Node.js | TypeScript | AI & RAG
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+I'm a Full Stack Developer with **1 year of experience** building and shipping production-ready SaaS applications. I enjoy developing scalable web applications, designing REST APIs, optimizing backend performance, and integrating AI-powered features into real-world products.
+
+Currently working at **Scalingwolf AI**, contributing to Thola AI — an AI-powered business intelligence platform.
+
+## 💫 About Me
+
+- 💻 Full Stack Developer with 1 year of professional experience.
+- 🚀 Building production SaaS applications using React.js, TypeScript, Node.js and PostgreSQL.
+- 🤖 Interested in LLM integration, AI Agents, RAG pipelines and AI-powered applications.
+- ⚡ Experienced in REST API development, JWT authentication, Redis caching and payment gateway integration.
+- 📦 Creator of an open-source npm package with **1,200+ downloads**.
+- 🤝 Open to collaborating on Full Stack and AI-powered development projects.
+- 📍 Based in Chennai, India.
+
+## 💻 Tech Stack
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
+**AI & LLM**
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-8E44AD?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00897B?style=flat)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B46C1?style=flat)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=suniltechs&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=suniltechs&theme=codeSTACKr&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suniltechs&theme=codeSTACKr&hide_border=true&layout=compact)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunil_Sowrirajan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-s-40548826b/)
+[![GitHub](https://img.shields.io/badge/GitHub-suniltechs-181717?style=flat&logo=github&logoColor=white)](https://github.com/suniltechs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=googlechrome&logoColor=white)](https://sunilsowrirajan.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sunilsowrirajan@gmail.com)
+
+---
+
+💡 *Building, learning and shipping one feature at a time.*
