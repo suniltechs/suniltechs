@@ -60,17 +60,18 @@ Currently working at **Scalingwolf AI**, contributing to Thola AI — an AI-powe
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=suniltechs&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](./profile/stats.svg)
 
-![](https://nirzak-streak-stats.vercel.app/?user=suniltechs&theme=codeSTACKr&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suniltechs&theme=codeSTACKr&hide_border=true&layout=compact)
+![Top Languages](./profile/top-langs.svg)
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunil_Sowrirajan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-s-40548826b/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-suniltechs-181717?style=flat&logo=github&logoColor=white)](https://github.com/suniltechs)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=googlechrome&logoColor=white)](https://sunilsowrirajan.netlify.app/)
+
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sunilsowrirajan@gmail.com)
 
 ---
